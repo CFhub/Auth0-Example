@@ -1,5 +1,5 @@
-import Hero from "./hero";
-import Loading from "./loading";
+import Hero from "./Hero";
+import Loading from "./Loading";
 import NavBar from "./NavBar";
 
 export { Hero, Loading, NavBar };
